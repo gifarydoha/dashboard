@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tailwindcss -i ./src/input.css -o ./src/style.css --watch"
+    "dev": "tailwindcss -i ./src/input.css -o ./public/style.css --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abu Jar Gifary Doha",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.4.3"
